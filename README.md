@@ -1,5 +1,4 @@
-# CodeVedX_task4
-Weather App
+#Weather App
 
 A simple desktop weather application built with Python and the Tkinter library. Enter a city name to view its current weather information, including temperature, conditions, humidity, and wind speed.
 
